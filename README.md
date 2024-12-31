@@ -6,6 +6,6 @@ Additionally, the edhec_risk_kit.py is needed to be imported as a library as a r
 
 ## File 2: Efficient Frontier and Implementing Markowitz Portfolio Theory
 
-## File 3: Implementing CPPI Strategies and Simulating Porfolios with Monte Carlo
+## File 3: Implementing CPPI Strategies and Monte Carlo Simulation
 
 ## File 4: Liability Driven Investing Techniques
